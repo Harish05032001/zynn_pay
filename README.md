@@ -1,1 +1,1 @@
-# zynn_pay
+# zynn_pay 🤖
